@@ -1,5 +1,5 @@
 function changeVideo(index) {
-  const p = document.getElementById("player");
+  const p = document.getElementById("video-container");
   // console.log('player', p);
   switch (index) {
     case 1:
